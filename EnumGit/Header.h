@@ -89,3 +89,8 @@ enum branch2 {
     green,
     yellow
 };
+enum branch1 {
+    b1,
+    b2,
+    b3
+};
