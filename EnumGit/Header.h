@@ -80,7 +80,7 @@ typedef enum {
 } PAS_NIBP_INTVL_TIME;
 
 enum class ec4 : long long {
-    c1,
-    c2,
+    c1 = 0,
+    c2 = 2,
     c3
 };
