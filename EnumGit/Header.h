@@ -84,3 +84,9 @@ enum class ec4 : long long {
     c2 = 2,
     c3
 };
+
+enum branch1 {
+    b1,
+    b2,
+    b3
+};
