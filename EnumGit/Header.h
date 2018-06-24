@@ -94,3 +94,10 @@ enum branch1 {
     b2,
     b3
 };
+
+enum class ec5 {
+    test,
+    how,
+    stash,
+    works
+};
