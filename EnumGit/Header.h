@@ -102,3 +102,10 @@ enum e_master1 {
     dies,
     also
 };
+
+enum class ec5 {
+    test,
+    how,
+    stash,
+    works
+};
