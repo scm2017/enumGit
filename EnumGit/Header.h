@@ -94,3 +94,11 @@ enum branch1 {
     b2,
     b3
 };
+
+enum e_master1 {
+    should,
+    i,
+    stash,
+    dies,
+    also
+};
